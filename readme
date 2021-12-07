@@ -25,5 +25,25 @@ If you want to go to the page itself here is the link:
 http://www.allieramoshair.com/index.html
 
 
-Below are some screenshots for a quick look at the live webpage.
+Below are some screenshots for a quick look at the live webpage and some thoughts on each.
 
+- For each, the links to other pages use a "highlight" fuction when the visitor hovers over it. 
+- All external links (booking and social media) open in new tabs. 
+- The idea is to preserve the visitor on the clients website.
+
+Index (home) page. Designed the background image out of four different pictures. Used it as backdrop to emphisise "hair" and put the business model front and center.
+The layout for the index page is meant to be simple and get the visitor to select another page to visit. 
+
+![AllieHair_Index](https://user-images.githubusercontent.com/10605443/145080272-ed4d8366-0458-4ac6-b26b-f31e16c347b7.JPG)
+
+The services page includes a small description for each offered service and a disclaimer designed to help inform clients of any variables that can impact the final price. 
+I wanted to make the disclaimer follow the page as the visitor scrolls down. This was not utilized but is on my list of things to do later. 
+
+![AllieHair_Booking](https://user-images.githubusercontent.com/10605443/145080240-76b45cb7-40a4-4983-82f8-054938c640f6.JPG)
+
+The contact page uses a standard method to include the location of the shop from google maps. Not difficult, but I was happy that I was able to figure out how to include this part.
+
+![AllieHair_Contact](https://user-images.githubusercontent.com/10605443/145080241-b7220dde-4afc-4af3-8ded-6aafb15d751d.JPG)
+
+
+t.
