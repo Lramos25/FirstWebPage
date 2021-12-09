@@ -1,0 +1,129 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+    <head>
+        <title>Hair Salon Highlands Ranch CO | Allie Ramos Hair | Highlands Ranch</title>  <!--- title of webpage for search engeeins-->
+        <meta name="description" content="Welcome to Allie Ramos's Hair salon in Highlands Ranch, our services include balayage, hair styling, haircuts, hair coloring and more. You're guaranteed leave with the look you can be proud of">
+        <meta charset="UTF-8">
+        <meta name="robots" content="index, follow">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="keywords" content="Hair salon, Beauty Parlor, Hairdresser, Hair stylist, Highlights, Balayage, Hair color, Hair styling, Hair Cut, Colorist, Color Correction, Beauty salon, Highland Ranch, Denver, Centennial, Castle Rock, Colorado">
+        <meta name= "author" content="Luis Ramos">
+        <link rel="icon" href="images/hair_dryer_beauty_icon_186804.ico"/><!--- picture on tab of website -->
+        <link rel="stylesheet" href="css/style.css" type="text/css"/>
+    </head>
+
+    <body>
+
+        <header>
+            <div class="container">
+
+                <div id="branding">
+
+                      <h1><u><span class="highlight">Allie Ramos Hair</span></u></h1>
+
+                </div>
+
+                <nav>
+
+                    <ul>
+                        <li><a href=index.html>Home </a></li>
+                        <li class="current"><a href=stylist.html> Stylist </a></li>
+                        <li><a href=gallery.html> Gallery </a></li>
+                        <li><a href=services.html> Services </a></li>
+                        <li><a href=contact.html> Contact </a></li>
+                        <li><button class="button1" type="submit" onclick="NewTab()">Schedule Now</button>
+                            <script>
+                                  function NewTab() {
+                                    window.open("https://allisonramos.glossgenius.com/services", "_blank");
+                                  }
+                            </script></li>
+                    </ul>
+                </nav>
+            </div>
+
+        </header>
+
+        <section id="about-main">
+
+            <div class="container">
+
+                <article id="about-article">
+                    <h2 class="about-title">Meet Allison</h2>
+                    <p> For as long as she can remember Allison has been doing hair, she gave her first haircut to her mother at 12 years old and has always had a knack for beauty.
+                        <b>“I’ve always loved making people feel like the best version of themselves.”</b> -Allison.
+                    </p>
+                    <p> Allison spent several years as a stay-at-home mom raising her two children while her husband was serving in the military. Once her
+                        kids were old enough, she decided to start her journey to becoming a professional hair stylist. She attended The Gary Manuel Aveda Institute
+                        in Seattle in 2014, there she excelled with balayage and color corrections in part due to her artistic skills and also her caring nature
+                        toward her guests. She has broadened her skills by taking opportunities to gain additional skills with balayage classes and hair cutting
+                        classes with several Aveda artists, including taking classes at the Aveda Institute in London.
+                    </p>
+                    <p> After graduating and obtaining her license Allison and her family moved to Germany, there she worked in a German hair salon for several years.
+                      While in Europe she did, not only hair, but makeup as well to provide the complete look for Military balls and exotic on-site photo shoots.
+                      Always looking to improve, Allison makes sure to continue her education with numerous classes which honed her makeup, barbering, cutting and
+                      coloring skills. Allison was lucky enough to have a great mentor that taught her a great deal about running a salon and creating a memorable experience for guests.
+                      <b>“Success is when I see my client leave with a bigger smile than they came with.”</b> -Allison
+                    </p>
+                    <p> In 2019 Allison decided to move to Castle Rock, Colorado where she started working at another salon. Allison
+                        met a wonderful group of stylists while working there and was able to focus solely on hair. It was a great learning experience that became an
+                        important part of her journey. After working there for two and a half years Allison decided to try something new, and opened her own salon suite!
+                        She aims to provide a comfortable space for her guests while allowing for more creative freedom, that is how the Allie Ramos Hair Studio in Highlands Ranch
+                        was born. Allison continues to place an emphasis on training and is constantly improving her skills to better service her guests. She offers a wide
+                        array of services to include balayage, color corrections and keratin treatments so please reach out, she’d love to have you sit in her chair!
+                    </p>
+
+                </article>
+
+                <aside id="about-sidebar">
+
+                    <div>
+                        <p>
+                            <img src="images/proifile3.JPG" alt="">
+                        </p>
+                    </div>
+                </aside>
+
+            </div>
+
+        </section>
+
+        <footer>
+            <section id="social-boxes">
+                <div class="container">
+                  <div class="box1">
+                      <a href=https://m.facebook.com/allieramoshair/ target=_blank><img src="images/facebook.svg" alt=""></a>
+                  </div>
+                  <div class="box2">
+                      <a href=https://www.instagram.com/allieramoshair/ target=_blank><img src="images/Instagram_new_logo.png" alt=""></a>
+                  </div>
+                </div>
+            </section>
+
+            <div id="footer1">
+                <div class="container">
+                    <p> 2670 E County Line Road, Unit M Studio 114, Highlands Ranch, CO 80126</p>
+                    <p>phone: 720-296-0442</p>
+                    <p>email: allisonramos1982@yahoo.com</p>
+                </div>
+            </div>
+
+            <div id="footer2">
+                <div class="container">
+                    <p>Hours of Operation:</p>
+                    <P>Tuesday-Wednesday 9a.m.-1p.m.</P>
+                    <P>Thursday-Saturday 9a.m.-6p.m.</P>
+                </div>
+            </div>
+
+            <div class="container">
+                <img src="images/5_Card_CUP_color_horizontal.png" alt="">
+                <p>Allie Ramos Hair</p>
+            </div>
+
+        </footer>
+
+
+    </body>
