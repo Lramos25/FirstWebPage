@@ -1,0 +1,112 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+    <head>
+        <title>Hair Salon Highlands Ranch CO | Allie Ramos Hair | Highlands Ranch</title>  <!--- title of webpage for search engeeins-->
+        <meta name="description" content="Welcome to Allie Ramos's hair salon in Highlands Ranch, our services include balayage, hair styling, haircuts, hair coloring and more. You're guaranteed leave with the look you can be proud of">
+        <meta charset="UTF-8">
+        <meta name="robots" content="index, follow">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="keywords" content="Hair salon, Beauty Parlor, Hairdresser, Hair stylist, Highlights, Balayage, Hair color, Hair styling, Hair Cut, Colorist, Color Correction, Beauty salon, Highland Ranch, Denver, Centennial, Castle Rock, Colorado">
+        <meta name= "author" content="Luis Ramos">
+        <link rel="icon" href="images/hair_dryer_beauty_icon_186804.ico"/><!--- picture on tab of website -->
+        <link rel="stylesheet" href="css/style.css" type="text/css"/>
+    </head>
+
+    <body>
+
+        <header>
+            <div class="container">
+                <div id="branding">
+                      <h1><u><span class="highlight">Allie Ramos Hair</span></u></h1>  <!--- replace with icon img --->
+                </div>
+                <nav>
+                    <ul>
+                        <li><a href=index.html>Home </a></li>
+                        <li><a href=stylist.html> Stylist </a></li>
+                        <li class="current"><a href=gallery.html> Gallery </a></li>
+                        <li><a href=services.html> Services </a></li>
+                        <li><a href=contact.html> Contact </a></li>
+                        <li><button class="button1" type="submit" onclick="NewTab()">Schedule Now</button>
+                            <script>
+                                  function NewTab() {
+                                    window.open("https://allisonramos.glossgenius.com/services", "_blank");
+                                  }
+                            </script></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+
+        <section id="sample-pictures">
+            <div class="container">
+
+                <div class="sample-box">
+                    <img src="images/Foilage.JPG" alt="">
+                    <h3>Foilyage</h3>
+                </div>
+
+                <div class="sample-box">
+                    <img src="images/FashionColor.JPG" alt="">
+                    <h3>Fashion Color</h3>
+                </div>
+
+                <div class="sample-box">
+                    <img src="images/Ombre.JPG" alt="">
+                    <h3>Ombre</h3>
+                </div>
+
+                <div class="sample-box">
+                    <img src="images/BlondeBalayage.JPG" alt="">
+                    <h3>Blonde Balayage</h3>
+                </div>
+
+                    <div class="sample-box">
+                        <img src="images/Balayageandrootcolor2.jpg" alt="">
+                        <h3>Balayage and root color</h3>
+                    </div>
+                </div>
+        </section>
+
+
+
+        <footer>
+            <section id="social-boxes">
+                <div class="container">
+                  <div class="box1">
+                      <a href=https://m.facebook.com/allieramoshair/ target=_blank><img src="images/facebook.svg" alt=""></a>
+                  </div>
+                  <div class="box2">
+                      <a href=https://www.instagram.com/allieramoshair/ target=_blank><img src="images/Instagram_new_logo.png" alt=""></a>
+                  </div>
+                </div>
+            </section>
+
+            <div id="footer1">
+                <div class="container">
+                    <p> 2670 E County Line Road, Unit M Studio 114, Highlands Ranch, CO 80126</p>
+                    <p>phone: 720-296-0442</p>
+                    <p>email: allisonramos1982@yahoo.com</p>
+                </div>
+            </div>
+
+            <div id="footer2">
+                <div class="container">
+                    <p>Hours of Operation:</p>
+                    <P>Tuesday-Wednesday 9a.m.-1p.m.</P>
+                    <P>Thursday-Saturday 9a.m.-6p.m.</P>
+                </div>
+            </div>
+
+            <div class="container">
+                <img src="images/5_Card_CUP_color_horizontal.png" alt="">
+                <p>Allie Ramos Hair</p>
+            </div>
+
+        </footer>
+
+
+    </body>
